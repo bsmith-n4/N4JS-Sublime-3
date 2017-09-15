@@ -1,0 +1,11 @@
+[
+  {
+    "caption": "Better N4JS",
+    "children": [
+      {
+        "caption": "TODO: Check Syntax",
+        "command": "check_code_syntax"
+      }
+    ]
+  }
+]

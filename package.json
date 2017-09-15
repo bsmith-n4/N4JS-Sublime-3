@@ -1,0 +1,13 @@
+{
+    "schema_version": "1.2",
+    "renamed_packages": { "n4js-sublime-3": "Better N4JS" },
+    "packages": [
+        {
+            "name": "Better N4JS",
+            "description": "Syntax highlighting and checking, commands, shortcuts, snippets, watched compilation and more.",
+            "author": "bsmith-n4",
+            "homepage": "https://github.com/bsmith-n4/N4JS-Sublime-3",
+            "last_modified": "2017-09-15 16:04:41",
+        }
+    ]
+}

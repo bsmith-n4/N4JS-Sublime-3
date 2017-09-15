@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "TODO: Check Syntax"
+	,	"command": "check_code_syntax"
+	}
+]
